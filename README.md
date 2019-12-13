@@ -1,6 +1,6 @@
 Ces package ne sont que des copies des versions originales mises à disposition sur
 http://www.jadahl.com/iperf-arp-scan/DSM_6.2/
-Vous y trouverez le cas échéant les poackages  manquants
+Vous y trouverez le cas échéant les packages  manquants
 
 Check CPU configuration 
 If any doubt (or new models), check CPU on Control Panel / Info Center
