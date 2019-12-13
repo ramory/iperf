@@ -11,3 +11,4 @@ and go to : https://www.synology.com/en-global/knowledgebase/DSM/tutorial/Compat
 -	DS918+ is Intel Celeron (Apollolake)
 -	DS916+ is Intel Pentium (Braswell)
 
+Some explanations on iperf results :  https://github.com/esnet/iperf/issues/480
